@@ -1,0 +1,4 @@
+GitHub Pages: https://alex202490.github.io/riddick-furya/
+Тема: отдельный фан-путеводитель по франшизе Риддика.
+Canonical и sitemap указывают на GitHub.
+Не копируйте основной текст сайта GitVerse.
